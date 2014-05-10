@@ -1,4 +1,4 @@
 <?php
 echo "M-Learning";
-echo "M-Learing";
-
+echo "M-Learning";
+echo "M-Learning";
